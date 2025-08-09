@@ -120,3 +120,6 @@ For help, questions, or bug reports, Contact any of the contributors above.
 
 ## Link
 https://jiseti-frontend-kgib.onrender.com/
+
+## Presentation Slides
+https://docs.google.com/presentation/d/1JcYFthWx5LZyZhVCvytpqHiQ6DwlA8Rq/edit?usp=sharing&ouid=112882931007072286996&rtpof=true&sd=true
